@@ -1,0 +1,4 @@
+Just click the edit button below to change this plaintext file.  If you're still confused, go back to the Tutorial.
+
+Now you can easily edit and create text files and link between them.  All changes are saved into a git collection so that nothing is ever lost!
+
